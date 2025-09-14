@@ -1,2 +1,2 @@
-# beaverr
-A repository containing stuff about Turing Machines, and Busy Beavers
+# collatz
+A repository containing tools for the Collatz conjecture.
